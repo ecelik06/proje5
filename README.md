@@ -1,0 +1,1 @@
+# Patika kişisel web sitemizi geliştirme ödev 2
